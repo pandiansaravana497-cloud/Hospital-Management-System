@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230207
+# Name: PON SARAVANA PANDIAN B
+# Date:24/11/26
 
 
 # AIM:
@@ -42,6 +42,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1157" height="912" alt="image" src="https://github.com/user-attachments/assets/6f6b6ef8-03bc-4ce9-b559-adc0d8643826" />
 
 
 
@@ -61,6 +62,8 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="1487" height="915" alt="image" src="https://github.com/user-attachments/assets/2d39329d-018d-4d72-b9eb-c23e0af96a44" />
+
 
 # COMMUNICTION DIAGRAM:
 
@@ -68,6 +71,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="942" height="790" alt="image" src="https://github.com/user-attachments/assets/25f65061-7f8b-458c-845c-67e96156d017" />
 
 
 
@@ -82,6 +86,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1053" height="563" alt="image" src="https://github.com/user-attachments/assets/4bd1e5e7-ddeb-4bdd-b4eb-75179e7de8f1" />
 
 
 
@@ -99,6 +104,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="900" height="901" alt="image" src="https://github.com/user-attachments/assets/c4e1224a-eaf8-45e2-a396-04b9764b3f75" />
 
 
 
@@ -120,8 +126,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-
-
+<img width="920" height="773" alt="image" src="https://github.com/user-attachments/assets/fb5bdedd-78cb-4074-93f0-47de6ef2c14c" />
 
 
 # RESULT
